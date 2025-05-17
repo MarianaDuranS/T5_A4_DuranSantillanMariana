@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">T5_A4_DuranSantillanMariana</string>
+    <string name="txt_Titulo">Conversor</string>
+    <string name="r_group">Sistemas</string>
+    <string name="r_btn_decimal">Decimal</string>
+    <string name="r_btn_binario">Binario</string>
+    <string name="r_btn_octal">Octal</string>
+    <string name="r_btn_hexadecimal">Hexadecimal</string>
+    <string name="txt_etiquetaIngresa">Ingresa numero:</string>
+    <string name="c_box_binario">Binario</string>
+    <string name="c_box_octal">Octal</string>
+    <string name="c_box_hexadecimal">Hexadecimal</string>
+    <string name="btn_convertir">Convertir</string>
+</resources>
